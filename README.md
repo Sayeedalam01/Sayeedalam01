@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋, I'm Sayeed
+#### I'm a student of the dept. of CSE in American International University Bangladesh.
+
+Skills: C / C++ / Java
+
+- 🌱 I’m currently learning Python 
+- 👯 I’m looking to collaborate on GitHub 
+- 📫 How to reach me: via Twitter, Linkedin 
 
 
-**Sayeedalam01/Sayeedalam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sayeedalam01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sayeedalam01/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sayeedalam01)  
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sayeedalam01)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayeedalam01)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayeedalam01&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Sayeedalam01)  
 
