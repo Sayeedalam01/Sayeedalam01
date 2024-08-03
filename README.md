@@ -5,7 +5,7 @@ Skills: C / C++ / Java
 
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on GitHub 
-- 📫 How to reach me: via Twitter, Linkedin 
+- 📫 How to reach me: via Linkedin 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sayeedalam01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sayeedalam01/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sayeedalam01)  
