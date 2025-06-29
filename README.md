@@ -3,7 +3,7 @@
 
 Skills: C / C++ / Java
 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python and ML
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: via Linkedin 
 
