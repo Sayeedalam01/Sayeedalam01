@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Sayeed
 #### I'm a student of the dept. of CSE in American International University Bangladesh.
 
-Skills: C / C++ / Java
+Skills: C, C++, Java, C#, Python.
 
-- 🌱 I’m currently learning Python and ML
+- 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: via Linkedin 
 
